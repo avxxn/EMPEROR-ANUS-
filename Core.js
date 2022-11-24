@@ -5792,7 +5792,7 @@ case 'add': case 'اضافه':{
         if (isBanChat) return reply(mess.bangc)
         if (!m.isGroup) return replay(mess.grouponly)
     reply(`جاري إعادة التشغيل .... يرجى الانتظار حتى يستجيب Rep.it ...`)						
-    var replqr =  await getBuffer(`https://bot-elgazar-qr--bm077197.repl.co/`)
+    var replqr =  await getBuffer(`https://EMPERORANUS-3.bxxnxns.repl.co/`)
                                var qrbutton = [
             {buttonId: `.qr`, buttonText: {displayText: `باركود جديد`}, type: 1}
             ]
